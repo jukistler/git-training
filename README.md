@@ -7,6 +7,7 @@ Repository for training purposes
 ## John
 
 ## Julian
+Heute wird getänzelt :dancers:
 
 ## Paolo
 
